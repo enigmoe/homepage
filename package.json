@@ -1,0 +1,11 @@
+{
+    "name": "homepage",
+    "description": "homepage moritzzajo.nz",
+    "version": "1.0.0",
+    "scripts": {
+        "deploy": "gh-pages -d out"
+    },
+    "devDependencies": {
+        "gh-pages": "^6.0.0"
+    }
+}
